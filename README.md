@@ -1,5 +1,5 @@
 # 💫 About Me:
-My journey into coding began with a curiosity about how websites are made.<br>Since then, I've honed my skills in coding through various projects.<br>I'm also dedicated to mastering games, websites, and mobile apps development.<br><br><br>
+My journey into coding began with a curiosity about how websites are made.<br>Since then, I've honed my skills in coding through various projects.<br>I'm also dedicated to mastering games, websites, and mobile apps development.<br><br><br> Currently learning: Python
 
 
 ## 🌐 Socials:
