@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Delvino Alvin!
-I am a Computer Science student from Binus University, passionate building apps, games, websites, etc for scalable solutions.
-My journey into coding began with a curiosity about how websites are made.<br>Since then, I've honed my skills in coding through various projects as you can see at my repositories.<br><br><br> Currently focusing on: GUI and games
+I am a Computer Science student from Binus University, passionate building apps, games, websites, etc for scalable solutions.<br>
+My journey into coding began with a curiosity about how websites are made.<br>Since then, I've honed my skills in coding through various projects as you can see at my repositories.<br><br> Currently focusing on: GUI and games
 
 
 
